@@ -1,6 +1,6 @@
 package org.system;
 
-public class desktop extends computer{
+public class Desktop extends computer{
 	public void desktopSize() {
 		System.out.println("fifteen inches");}
 	public static void main(String[] args) {
